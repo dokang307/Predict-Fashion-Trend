@@ -1,5 +1,9 @@
 streamlit
-pandas
 numpy
+pandas
 scikit-learn
 xgboost
+imbalanced-learn
+seaborn
+matplotlib
+pickle-mixin
