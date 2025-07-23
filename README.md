@@ -15,4 +15,4 @@ This project predicts upcoming fashion trends using the **fashion_US_UK** datase
 - Combined **Fashion Magazines** and **Fashion Influencers** into a total mention score
 - Identified each product by:
   ```python
-  product_features = ["Brand", "Category", "Style Attributes", "Color", "Season"]
+  product_features = ["Brand", "Category", "Style Attributes", "Color", "Season"] 
